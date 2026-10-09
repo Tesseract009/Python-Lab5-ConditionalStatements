@@ -1,3 +1,7 @@
+import bmi
+import zodiac
+import birthday
+
 while True:
     print("Welcome to Python Lab 5! This repository includes 3 applications. /n Press 1 for **BMI Calculator** /n Press 2 for **Zodiac Determiner** /n Press 3 for **Birthday Guesser** /n Press 4 to exit.")
     ans = int(input())
